@@ -3,7 +3,7 @@
 */
 import java.util.Scanner;
 
-public class DeMorgan{
+public class DeMorganOld{
     public static void main(String[] args){
 
         // all combinations for step 5
